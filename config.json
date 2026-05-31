@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpetch",
+        "uuid": 13539400,
+        "checksum": "00ep8e"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
